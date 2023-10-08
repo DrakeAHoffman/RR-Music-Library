@@ -19,6 +19,7 @@ const GalleryItem = (props) => {
         )
     }
 
+    
     const detailView = () => {
         return (
             <div style={{
